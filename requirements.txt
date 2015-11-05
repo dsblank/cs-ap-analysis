@@ -1,2 +1,2 @@
-openpyxl
+openpyxl==2.3.0
 metakernel
