@@ -2,3 +2,4 @@ openpyxl==2.3.0
 metakernel
 pandas
 bokeh==0.10.0
+seaborn
